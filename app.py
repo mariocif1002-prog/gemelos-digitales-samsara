@@ -64,7 +64,7 @@ HEADERS = {
 # ¡DEBES ACTUALIZAR ESTO con tus propios modelos y nombres de archivo!
 MODEL_MAP = {
     # Ejemplo (debes cambiar "Cascadia" por como aparezca en tu app)
-    "Cascadia": "modelos_3d/cascadia.glb", 
+    "Cascadia": "modelos_3d/CASCADIA.glb", 
     "T680": "modelos_3d/kenworth_t680.glb",
     "VNL": "modelos_3d/volvo_vnl.glb",
     # ... añade más modelos aquí ...
