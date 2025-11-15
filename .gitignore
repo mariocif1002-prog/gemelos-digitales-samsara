@@ -1,0 +1,12 @@
+Ignorar entornos virtuales
+
+venv/
+.venv/
+
+Ignorar cachés de Python
+
+pycache/
+
+¡IMPORTANTE! Ignorar secretos locales
+
+.streamlit/secrets.toml
